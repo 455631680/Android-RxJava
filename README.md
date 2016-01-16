@@ -1,6 +1,8 @@
 Learning RxJava for Android by example
 ==============
 
+[![Join the chat at https://gitter.im/455631680/Android-RxJava](https://badges.gitter.im/455631680/Android-RxJava.svg)](https://gitter.im/455631680/Android-RxJava?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a repository with real-world useful examples of using RxJava with Android. [It usually will be in a constant state of "Work in Progress" (WIP)](http://nerds.weddingpartyapp.com/tech/2014/09/15/learning-rxjava-with-android-by-example/).
 
 ## Examples:
